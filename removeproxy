@@ -1,0 +1,6 @@
+#!/bin/bash
+sed -i '/ra389808/d' ~/.bashrc
+sudo sed -i '/ra389808/d' /etc/apt/apt.conf
+sudo sed -i '/ra389808/d' /etc/environment
+
+source ~/.bashrc

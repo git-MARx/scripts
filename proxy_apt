@@ -1,0 +1,3 @@
+Acquire::http::proxy "http://ra389808:Neha2345@10.201.51.54:8080/";
+Acquire::https::proxy "https://ra389808:Neha2345@10.201.51.54:8080/";
+Acquire::ftp::proxy "ftp://ra389808:Neha2345@10.201.51.54:8080/";

@@ -1,0 +1,4 @@
+export http_proxy=http://ra389808:Neha2345@10.201.51.54:8080
+export https_proxy=https://ra389808:Neha2345@10.201.51.54:8080
+export ftp_proxy=ftp://ra389808:Neha2345@10.201.51.54:8080
+export all_proxy=socks5://ra389808:Neha2345@10.201.51.54:8080

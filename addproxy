@@ -1,0 +1,8 @@
+#!/bin/bash
+pwd
+
+cat scripts/proxy_bashrc >> ~/.bashrc
+sudo sh -c "cat scripts/proxy_apt >> /etc/apt/apt.conf"
+sudo sh -c "cat scripts/proxy_env >> /etc/environment"
+
+source ~/.bashrc
